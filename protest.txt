@@ -36,8 +36,6 @@ git commit -a -m "commit to repository"
 
 git log
 
-git status
-
 git push 
 
 git remote add + nameproject + đường dẫn
